@@ -1,0 +1,7 @@
+Install
+----------
+dpkg -i pulse-8.2R5.i386.deb 
+
+Uninstall
+----------
+dpkg -r pulse
